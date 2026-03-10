@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello Release Example\n");
+    printf("Hello from feature branch\n");
     return 0;
 }
